@@ -13,7 +13,7 @@ This modification to Factorio adds a few different sets of virtual signals. Curr
 
 Code modified from the [Kana Signals](https://mods.factorio.com/mods/GotLag/Kana%20Signals) mod by [GotLag](https://mods.factorio.com/mods/GotLag). Credit for code, and inspiration for the basic idea, goes to GotLag.
 
-I want to add a video tutorial on how to add signals of your own, but this may take some time. All resources for adding your own signals are included. It honestly only takes adding a couple lines of code in a few files to get a ne custom signal working (plus creating a graphic for that signal).
+I want to add a video tutorial on how to add signals of your own, but this may take some time. All resources for adding your own signals are included. It honestly only takes adding a couple lines of code in a few files to get a new custom signal working (plus creating a graphic for that signal).
 
 I have plans to expand the mod in to different modules. One module for math, one module for punctuation, etc. Let me know what you guys think of that idea.
 
