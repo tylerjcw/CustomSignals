@@ -1,7 +1,7 @@
 # Custom Signals #
 
 ## Description ##
-This modification to Factorio adds a few different sets of virtual signals. Currency, Directional, Punctuational, and Mathematical operators are added by this mod.
+This modification to Factorio adds a few different sets of virtual signals. Currency, Directional, Punctuational, and Mathematical operators are added by this mod. Everything has been tested on a vanilla version of Factorio and this mod is garaunteed to not interfere with any other mods you may be running.
 
 ## Organization ##
 + Punctuation = White Background ![White](http://i.imgur.com/FphYuiu.png)
