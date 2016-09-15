@@ -2,10 +2,10 @@
 This modification to Factorio adds a few different sets of virtual signals. Currency, Directional, Punctuational, and Mathematical operators are added by this mod. I have plans to expand the mod in to different modules. One module for math, one module for punctuation, etc. Let me know what you guys think of that idea.
 
 ## Organization ##
-Punctuation = White Background
-Mathematics = Blue Background
-Currencies = Yellow Background
-Directions = Red Background
++ Punctuation = White Background
++ Mathematics = Blue Background
++ Currencies = Yellow Background
++ Directions = Red Background
 
 Code modified from the [Kana Signals](https://mods.factorio.com/mods/GotLag/Kana%20Signals) mod by [GotLag](https://mods.factorio.com/mods/GotLag). Credit for code, and inspiration for the basic idea, goes to GotLag.
 
