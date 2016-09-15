@@ -7,6 +7,8 @@ This modification to Factorio adds a few different sets of virtual signals. Curr
 + Currencies = Yellow Background ![Yellow](http://i.imgur.com/XESyBO2.png)
 + Directions = Red Background ![Red](http://i.imgur.com/9pUOdZA.png)
 
+## Aditional Information ##
+
 Code modified from the [Kana Signals](https://mods.factorio.com/mods/GotLag/Kana%20Signals) mod by [GotLag](https://mods.factorio.com/mods/GotLag). Credit for code, and inspiration for the basic idea, goes to GotLag.
 
 ## Version History ##
