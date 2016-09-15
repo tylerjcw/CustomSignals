@@ -3,9 +3,9 @@ This modification to Factorio adds a few different sets of virtual signals. Curr
 
 ## Organization ##
 + Punctuation = White Background ![White](http://i.imgur.com/FphYuiu.png)
-+ Mathematics = Blue Background ![Red](http://i.imgur.com/9pUOdZA.png)
++ Mathematics = Blue Background ![Blue](http://i.imgur.com/RDF0dY0.png)
 + Currencies = Yellow Background ![Yellow](http://i.imgur.com/XESyBO2.png)
-+ Directions = Red Background ![Blue](http://i.imgur.com/RDF0dY0.png)
++ Directions = Red Background ![Red](http://i.imgur.com/9pUOdZA.png)
 
 Code modified from the [Kana Signals](https://mods.factorio.com/mods/GotLag/Kana%20Signals) mod by [GotLag](https://mods.factorio.com/mods/GotLag). Credit for code, and inspiration for the basic idea, goes to GotLag.
 
